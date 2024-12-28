@@ -1,4 +1,9 @@
 [
-  { "name": "Quang", "username": "quangdz1", "password": "123456" },
-  { "name": "Giang", "username": "giangdz", "password": "aloalo1234" }
+  { "name": "quang", "username": "quangdz", "password": "quangdz" },
+  { "name": "giang", "username": "quangdz", "password": "quangdz" },
+  {
+    "name": "lap nguyen",
+    "username": "lap123",
+    "password": "lap123lap123lap123"
+  }
 ]
